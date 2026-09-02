@@ -1,2 +1,3 @@
 val = int(input("Enter Your Number:"))
-print("Your Entered Number is:", val)
+val2 = int(input("Enter Your Second Number:"))
+print("Sum:", val, val2)
